@@ -1,0 +1,4 @@
+Replace this line with a word accepted
+Replace this line with another word accepted
+Replace this line with a word rejected
+Replace this line wth another word rejected
